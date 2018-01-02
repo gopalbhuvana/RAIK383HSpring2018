@@ -1,0 +1,8 @@
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\bin\Debug\SimpleEmailApp.exe.config
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\bin\Debug\SimpleEmailApp.exe
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\bin\Debug\SimpleEmailApp.pdb
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\obj\Debug\SimpleEmailApp.csprojResolveAssemblyReference.cache
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\obj\Debug\SimpleEmailApp.Properties.Resources.resources
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\obj\Debug\SimpleEmailApp.csproj.GenerateResource.Cache
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\obj\Debug\SimpleEmailApp.exe
+C:\Users\bgopal14\documents\visual studio 2017\Projects\SimpleEmailApp\SimpleEmailApp\obj\Debug\SimpleEmailApp.pdb
